@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+I am choosing the Cause of Death dataset.
 
 ## Process
 ### (your step 1)
