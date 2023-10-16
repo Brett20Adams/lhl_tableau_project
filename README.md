@@ -1,4 +1,4 @@
-# LHL Tableau Project - Causes of Death
+# LHL Tableau Project - Global Health Trends
 
 ## Project/Goals
 In this project, I am analyzing the Cause of Death dataset from Our World In Data. This dataset is collection of ways people have died from 1990 to 2019 from diseases, accident, or environmental factors. Datasets such as this are very powerful not only for health agencies, researchers, or governments, but for individuals as well to know what are the major risks depending on the country you live in. The questions I set out to answer are:
